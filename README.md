@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @renanpellegrini
-- 🌱 I’m currently a student in EBAC's "Full Stack Python Developer" course. Passionate about coding and Python, I'm learning the skills to build robust web apps with Django, PostgreSQL, HTML, CSS, and JavaScript. Follow me on GitHub to see my progress and projects!
+- 🌱 I’m currently a student in EBAC's "Full Stack Python Developer" course. I'm learning the skills to build robust web apps with Django, PostgreSQL, HTML, CSS, and JavaScript. Follow me on GitHub to see my progress and projects!
 
 
 

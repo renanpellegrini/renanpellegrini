@@ -2,6 +2,7 @@
 - 🌱 I’m currently a student in EBAC's "Full Stack Python Developer" course. I'm learning the skills to build robust web apps with Django, PostgreSQL, HTML, CSS, and JavaScript. Follow me on GitHub to see my progress and projects!
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanpellegrini&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
